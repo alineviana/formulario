@@ -1,6 +1,6 @@
 # Projeto | Programa Explorer da Rocketseat
 
-- Formulário para criação e compartilhamento de eventos.
+- Formulário para agendamento de mentorias.
 
 <img src="./image/preview.jpeg" width=450>
 
@@ -10,5 +10,3 @@
 
 - HTML5
 - CSS3
-
-
