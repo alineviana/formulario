@@ -2,7 +2,7 @@
 
 - Formulário para criação e compartilhamento de eventos.
 
-<img src="./image/preview.jpeg" width=450>
+<img src="./src/img/preview.jpeg" width=450>
 
 <br>
 

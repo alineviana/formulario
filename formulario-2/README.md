@@ -2,7 +2,7 @@
 
 - Formulário para agendamento de mentorias.
 
-<img src="./image/preview1.jpeg" width=450>
+<img src="./src/img/preview1.jpeg" width=450>
 
 <br>
 

@@ -5,8 +5,19 @@
 
 <br>
 
-> 🖥️ Tecnologias
+<img src="./formulario-3/src/img/preview2.jpeg" width=450>
 
-- HTML5
+[🔗 Clique aqui para acessar](https://alineviana.github.io/formularios/)
+
+<br>
+
+> ## 🖥️ Tecnologias
+
+- HTML5  
 - CSS3
 
+<br>
+
+> ### 📫 Contato
+
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alinecviana/)](https://www.linkedin.com/in/alinecviana/) 
