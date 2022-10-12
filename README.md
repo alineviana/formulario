@@ -7,7 +7,7 @@
 
 <img src="./formulario-3/src/img/preview2.jpeg" width=450>
 
-[🔗 Clique aqui para acessar](https://alineviana.github.io/formularios/)
+[🔗 Clique aqui para acessar](https://alineviana.github.io/formularios/formulario-3/)
 
 <br>
 
